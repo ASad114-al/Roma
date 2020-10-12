@@ -10,7 +10,7 @@ font-family: 'Roboto', sans-serif;
 @font-face
 {
     font-family:'santo' ;
-    src: url(/assets/font/SANTIO/OTP/Santio\ Black.otf);
+    src: url(../font/SANTIO/OTP/Santio\ Black.otf);
 }
 *{
     margin: 0;
@@ -19,7 +19,7 @@ font-family: 'Roboto', sans-serif;
 
 .first
 {   
-    background-image: url(/assets/img/cleo-topper.jpg) ;
+    background-image: url(../img/cleo-topper.jpg) ;
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -198,7 +198,7 @@ font-family: 'Roboto', sans-serif;
 }
 .first_8
 {
-    background-image: url(/assets/img/see.png) ;
+    background-image: url(../img/see.png) ;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
