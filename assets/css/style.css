@@ -1,0 +1,268 @@
+/* colgroup: #e7bc0e  / #efefef / #6bc1a3 / #cb91b6 / #7eb8e1 / #000 / #fff */
+
+/* font-family: 'Mr Dafoe', cursive;
+font-family: 'Roboto', sans-serif;
+ */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Mr+Dafoe&family=Roboto:wght@100;300&display=swap');
+
+@font-face
+{
+    font-family:'santo' ;
+    src: url(/assets/font/SANTIO/OTP/Santio\ Black.otf);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first
+{   
+    background-image: url(/assets/img/cleo-topper.jpg) ;
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.first li
+{
+    display: inline;
+    list-style: none;
+    padding-left: 9%;
+    font-size:1.6em;
+
+}
+.first li img
+{
+    width: 40px;
+}
+.first ul:nth-of-type(1)
+{
+    padding-left: 85%;
+    
+}
+.first li:nth-of-type(1)
+{
+    padding-left: 3%;
+}
+.first ul:last-of-type
+{
+    
+    text-decoration: underline;
+    text-decoration-color:  #e7bc0e;
+    color:#efefef;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.first p
+{
+   
+    font-family:'santo' ;
+   color:#efefef;
+   font-size: 5rem;
+   padding-left: 8%;
+   padding-top: 20%;
+}
+.first_1
+{
+    font-family: 'Mr Dafoe', cursive;
+    font-size: 4rem;
+    padding-left: 5%;
+    /* padding-top: 4%; */
+    color: #e7bc0e ;
+    margin-bottom: 60%;
+    margin-top: 15%;
+}
+.first_2 h1
+{
+   text-align: center; 
+   color: #6bc1a3;
+   font-family:'santo' ;
+   font-size: 3rem;
+   margin-bottom: 40%;
+ 
+}
+.first_2 span
+{
+    background:  #000;
+    color: #efefef;
+}
+.first_4 img
+{
+   width: 10%;
+   padding: 20%;
+}
+.first_4 h1
+{   
+    color: #e7bc0e ;
+    font-size: 8rem;
+    font-family:'santo' ;
+    margin-top: -8%;
+    padding-left: 20%;
+}
+.first_4 p
+{
+    padding-left: 20%;
+    color: #e7bc0e ;
+    font-size: 4em;
+    font-family:'santo' ;
+   margin-top: -18%;
+   margin-bottom: 30%;
+}
+.first_4 span
+{
+    background:  #000;
+    color: #efefef;
+}
+.first_5 h1
+{   
+    color: #cb91b6 ;
+    font-size: 8rem;
+    font-family:'santo' ;
+    margin-top: 0;
+    padding-left: 15%;
+}
+.first_5 img
+{
+   width: 10%;
+   padding-bottom: 35%;
+   padding-left: 15%;
+}
+.first_5 span
+{
+    background:  #000;
+    color: #efefef;
+}
+.first_5 p
+{
+    padding-left: 15%;
+    color: #cb91b6 ;
+    font-size: 2em;
+    font-family:'santo' ;
+   margin-top: -25%;
+}
+.first_5 div
+{
+   margin-top: -90vh;
+}
+
+
+.first_6 img
+{
+    width: 10%;
+    padding-top: 30%;
+    padding-bottom: 35%;
+    padding-left: 15%;
+    margin-bottom: 20%;
+}
+.first_6 span
+{
+    background:  #000;
+    color: #efefef;
+}
+.first_6 p
+{
+    padding-left: 15%;
+    color: #6bc1a3;
+    font-size: 2em;
+    font-family:'santo' ;
+   margin-top: -70%;
+   margin-bottom: 50%
+ ;
+}
+.first_6 h1
+{   
+    color: #6bc1a3 ;
+    font-size: 8rem;
+    font-family:'santo' ;
+    
+    padding-left: 15%;
+    margin-top: -45%;
+    margin-bottom: 50%;
+}
+.first_7 p
+{
+    font-family:'santo' ;
+    font-size: 3em;
+    width: 18em;
+    padding-left: 30%; 
+    color: #7eb8e1;  
+    margin-top: -40%; 
+}
+.first_7 span
+{
+    background:  #000;
+    color: #efefef;
+}
+.first_8
+{
+    background-image: url(/assets/img/see.png) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.first_8 img
+
+{
+    background-position: center;
+    background-size: center;
+    height: 100vh;
+
+}
+
+
+.first_9 h1
+{    background-color: #000;
+    font-family:'santo' ;
+    font-size: 4rem;
+    color: #efefef;
+    padding-left: 10%;
+    padding-top: 10%;
+    padding-bottom: 20%;
+
+}
+.first_9 p
+{
+   margin-left: 10%;
+   margin-top: -17%;
+   border: 1px solid  #efefef;
+  
+   font-size: 2rem;
+   width: 120px;
+   height: 40px;
+ 
+   color:black;
+  
+
+}
+.first_9 a
+{
+    text-decoration: none;
+    color: #efefef;
+    padding: 10%;
+}
+.first_9 p:hover
+{
+    border-right: 2px solid  white;
+    
+   border-bottom: 2px solid white;
+}
+
+
+#last_line
+{
+    text-align: center;
+    color: #efefef;
+    padding-top: 13%;
+}
+#last_line span
+{
+    color:#6bc1a3 ;
+}
+#last_line span:hover
+{
+    text-decoration: underline;
+}
